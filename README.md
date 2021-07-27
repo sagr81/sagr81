@@ -2,7 +2,7 @@
 - 👀 I’m interested in data connection, analyzes
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:   g r a nd t h yll (....) gmail (remove spaces)
+- 📫 How to reach me:  samuel gra 81 (....) gmail.com (remove spaces)
 
 <!---
 sagr81/sagr81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
